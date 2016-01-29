@@ -9,4 +9,5 @@ The first week we mentioned that 90% of the data that has ever been created has 
 
 **To do #2:** *Look through the applications built using [US Open Data](https://www.data.gov/applications), and select one with your table that you find interesting to share with the class. * 
 
-View <a href='https://learn.co/lessons/mobileSpotlight-openData' data-visibility='hidden'>Mobile Spotlight Open Data</a> on Learn.co and start learning to code for free.
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/mobileSpotlight-openData' title='Mobile Spotlight Open Data'>Mobile Spotlight Open Data</a> on Learn.co and start learning to code for free.</p>
